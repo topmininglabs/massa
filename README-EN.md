@@ -9,7 +9,7 @@
 ##### ・CentOS8：
 ##### ___`sudo yum update --nobest && sudo yum install wget curl`___
 ##### 
-##### ___`wget https://github.com/topmininglabs/massa/raw/main/topmining_massa.sh.x && chmod +x ./topmining_massa.sh.x && sudo ./topmining_massa.sh.x`___
+##### ___`wget https://github.com/topmininglabs/massa/raw/main/topmining_massa_en.sh.x && chmod +x ./topmining_massa_en.sh.x && sudo ./topmining_massa_en.sh.x`___
 #####   
 
 #### ■ Operation Guide：
