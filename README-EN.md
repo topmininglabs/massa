@@ -13,7 +13,7 @@
 #####   
 
 #### ■ Operation Guide：
-<img width="388" alt="スクリーンショット 2021-07-18 23 48 39" src="https://user-images.githubusercontent.com/86814869/126071726-9cea7f9a-46ff-4cd6-a5a8-0991d9aed250.png">
+<img width="383" alt="スクリーンショット 2021-07-19 0 57 38" src="https://user-images.githubusercontent.com/86814869/126073968-953966e5-e2a7-4d23-8fac-f7d0b8ec0644.png">
 
 ##### 1.Enter option 1 to install Docker
 ##### 2.Enter option 2 to download the TopMininG image exclusively for massa
