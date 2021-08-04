@@ -1,4 +1,4 @@
-## massa测试网v0.1.0 docker一键部署脚本（Ubuntu&CentOS）
+## massa测试网v0.1.1 docker一键部署脚本（Ubuntu&CentOS）
 ### ===本脚本仅限TopMininG社群用户使用===
 #### ■ 一键脚本运行方法(整行复制粘贴执行)：
   
@@ -24,11 +24,12 @@
 #####   
 
 #### ■ 操作方法：
-<img width="388" alt="スクリーンショット 2021-07-18 23 48 39" src="https://user-images.githubusercontent.com/86814869/126071726-9cea7f9a-46ff-4cd6-a5a8-0991d9aed250.png">
+<img width="391" alt="スクリーンショット 2021-08-04 23 53 46" src="https://user-images.githubusercontent.com/86814869/128203556-6f219201-1998-47f4-845c-4c7236430eb3.png">
+
 
 ##### 1.输入选项1安装Docker
 ##### 2.输入选项2下载TopMininG专供massa镜像
-##### 3.输入选项3运行massa容器节点
+##### 3.输入选项3运行massa容器节点(支持多节点部署)
 ##### 4 输入选项4进入节点钱包交互界面进行钱包操作和质押操作
 ##### 4.1.新建钱包（请保管好钱包地址和私钥）
 ##### ___`wallet_new_privkey`___
@@ -60,7 +61,6 @@
 ##### ___`wallet_info`___
 
 ##### 5.输入选项5重启massa节点
-##### 6.输入选项6更新massa节点
 
 #### ■ 注意事项
 ##### 1：此脚本仅支持Ubuntu系统和CentOS系统
